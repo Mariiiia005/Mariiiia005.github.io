@@ -1,0 +1,41 @@
+h1{
+	color:#3c80c4;
+}
+
+body{
+	background: pink;
+}
+
+
+.navbar-inverse .navbar-brand{
+	background:pink;
+	color:black;
+}
+
+.navbar-inverse{
+	background:pink;
+}
+
+.navbar-inverse .navbar-nav li a{
+	color:black;
+}
+
+
+
+
+.slime-bilder{
+	width: 200px
+}
+
+#slime2-bild{
+	width: 200px
+}
+
+
+#slime3-bild{
+	width: 200px
+}
+
+
+
+
